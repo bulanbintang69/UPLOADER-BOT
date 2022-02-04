@@ -1,3 +1,10 @@
+#### Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bulanbintang69/UPLOADER-BOT)
+
+
+
+
+
 ## [@UPLOADER_X_BOT](https://t.me/uploader_x_bot)
 ---
 
